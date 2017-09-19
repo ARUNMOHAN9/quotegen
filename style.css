@@ -1,0 +1,47 @@
+body {
+    background-color: burlywood;
+}
+
+.container {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    top: 13%;
+}
+
+
+.content {
+    background-color: white;
+    color: black;
+    margin: 5%;
+    padding: 3%;
+    border-radius: 25px;
+}
+
+#quote {
+    font-size: 36px;
+    font-family: 'Old Standard TT', serif;
+}
+
+
+#author {
+    font-size: 26px;
+    text-align: right;
+    margin-right: 5%;
+    font-weight: bold;
+    color: tomato;
+    font-family: 'Lato', sans-serif;
+}
+
+
+#button {
+    background-color: cornsilk;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    outline: white;
+}
+
+
+
